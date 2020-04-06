@@ -11,11 +11,11 @@
 * Import api_db.sql database with phpmyadmin, without it api's won't work 
 * Install Postman to test api's
 * All Endpoint Url's will look something like these, depending on folder structure
-> http://localhost/api_test/api/product/read.php
-> http://localhost/api_test/api/product/read_one.php
-> http://localhost/api/product/search.php?s=shirt
-> http://localhost/api_test/api/product/create.php
-> http://localhost/api/product/update.php
+> http://localhost/api_test/api/product/read.php, 
+> http://localhost/api_test/api/product/read_one.php, 
+> http://localhost/api/product/search.php?s=shirt, 
+> http://localhost/api_test/api/product/create.php, 
+> http://localhost/api/product/update.php, 
 > http://localhost/api_test/api/product/delete.php
 * Use [POSTMAN](https://www.postman.com/downloads/) to test the api's : sample raw JSON to create an entry (POST)
 > {
